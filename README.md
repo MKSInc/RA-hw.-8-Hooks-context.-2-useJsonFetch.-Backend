@@ -1,4 +1,4 @@
-### [Heroku server]()
+### [Heroku server](https://ra-8-2-usejsonfetch.herokuapp.com/)
 
 # 8. Домашнее задание к лекции «Hooks, Context API»
 
